@@ -3,6 +3,7 @@
 ## Overview
 
 This course aims to teach practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring.
+The project's repo can be found [here](https://github.com/DataTalksClub/mlops-zoomcamp/)+
 
 ## Target Audience
 
