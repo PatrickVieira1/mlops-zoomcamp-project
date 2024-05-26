@@ -169,3 +169,4 @@ week_2_env
 # MLflow Runs
 */mlruns
 */artifacts
+*/output
