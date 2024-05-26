@@ -3,7 +3,7 @@
 ## Overview
 
 This course aims to teach practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring.
-The project's repo can be found [here](https://github.com/DataTalksClub/mlops-zoomcamp/)+
+The project's repo can be found [here](https://github.com/DataTalksClub/mlops-zoomcamp/)
 
 ## Target Audience
 
@@ -45,7 +45,7 @@ The best way to get support is to use DataTalks.Club's Slack. Join the #course-m
 - MLflow in practice
 - Homework
 
-[More details](#)
+[More details](/week_2/)
 
 ### Module 3: Orchestration and ML Pipelines
 
